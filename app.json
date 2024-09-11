@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "paarty",
+    "name": "Paarty",
     "slug": "paarty",
+    "scheme": "paarty",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
