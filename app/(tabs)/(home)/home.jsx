@@ -175,7 +175,7 @@ const Home = () => {
                       imageStyle={{ borderRadius: 20 }}
                     >
                       <Text className="text-sm font-bold font-hregular px-8 rounded-full text-center bg-[#11111160] text-[#fff] pt-1">
-                      Rentals
+                      Rental
                       </Text>
                     </ImageBackground>
                   </TouchableOpacity>
