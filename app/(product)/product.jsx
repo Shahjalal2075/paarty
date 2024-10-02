@@ -4,11 +4,11 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import { Redirect, router, useLocalSearchParams } from "expo-router";
 import { useState } from "react";
 
-import backIcon from "../../../assets/icon/back.png";
-import photo1 from "../../../assets/product/p1.jpg";
-import searchIcon from "../../../assets/icon/search.png";
+import backIcon from "../../assets/icon/back.png";
+import photo1 from "../../assets/product/p1.jpg";
+import searchIcon from "../../assets/icon/search.png";
 
-const Message = () => {
+const Product = () => {
     const { plan } = useLocalSearchParams();
     const [isLoading, setIsLoading] = useState(false);
 
@@ -32,7 +32,7 @@ const Message = () => {
                             />
                         </TouchableOpacity>
                         <Text className="text-[#000] text-xl font-semibold capitalize">
-                            Customize Package
+                            {(plan === "home-care" ? "Home Care" : plan)}
                         </Text>
                     </View>
 
@@ -44,10 +44,8 @@ const Message = () => {
                         />
                         <TextInput
                             className="flex-1 text-[#000] font-hregular text-lg ml-2"
-                            placeholder="Filter Package On Your Choose"
-                            value="Filter Package On Your Choose"
+                            placeholder="Search"
                             placeholderTextColor="#3c3c4399"
-                            editable={false}
                         />
                     </View>
 
@@ -193,4 +191,4 @@ const Message = () => {
     );
 };
 
-export default Message
+export default Product;

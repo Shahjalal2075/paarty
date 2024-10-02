@@ -8,6 +8,7 @@ import detailsIcon from "../../../assets/icon/pDetails.png";
 import backIcon from "../../../assets/icon/rightB.png";
 import rightIcon from "../../../assets/icon/rightR.png";
 import logoutIcon from "../../../assets/icon/logout.png";
+import { router } from "expo-router";
 
 const Profile = () => {
 
@@ -23,7 +24,7 @@ const Profile = () => {
                     <Text className="text-lg font-semibold text-[#3A3F6D] my-4">Accounts</Text>
                     <TouchableOpacity
                         className="flex flex-row items-center justify-between py-3 px-4 mb-4 bg-[#F9F9FF] rounded-xl border border-[#D7DAEE]"
-                        onPress={() => (console.log('term'))}
+                        onPress={() => router.push('profilePage')}
                     >
                         <View className="flex flex-row items-center space-x-3">
                             <Image source={profileIcon} className="w-[18px] h-[18px]" />
@@ -31,7 +32,7 @@ const Profile = () => {
                         </View>
                         <Image source={backIcon} className="w-[18px] h-[18px]" />
                     </TouchableOpacity>
-                    <TouchableOpacity
+                    {/* <TouchableOpacity
                         className="flex flex-row items-center justify-between py-3 px-4 mb-4 bg-[#F9F9FF] rounded-xl border border-[#D7DAEE]"
                         onPress={() => (console.log('term'))}
                     >
@@ -40,7 +41,7 @@ const Profile = () => {
                             <Text className="text-lg text-[#636583]">Address</Text>
                         </View>
                         <Image source={backIcon} className="w-[18px] h-[18px]" />
-                    </TouchableOpacity>
+                    </TouchableOpacity> */}
                     <TouchableOpacity
                         className="flex flex-row items-center justify-between py-3 px-4 mb-4 bg-[#F9F9FF] rounded-xl border border-[#D7DAEE]"
                         onPress={() => (console.log('term'))}

@@ -2,7 +2,7 @@ import { Redirect, Tabs } from "expo-router";
 import { Image, Text, View } from "react-native";
 import home from '../../assets/icon/home.png'
 import profile from '../../assets/icon/user.png'
-import message from '../../assets/icon/message.png'
+import customize from '../../assets/icon/custom.png'
 
 
 const TabIcon = ({ icon, color, name, focused }) => {
@@ -68,13 +68,13 @@ const TabLayout = () => {
                 <Tabs.Screen
                     name="(message)"
                     options={{
-                        title: "Message",
+                        title: "Customize",
                         headerShown: false,
                         tabBarIcon: ({ color, focused }) => (
                             <TabIcon
-                                icon={message}
+                                icon={customize}
                                 color={color}
-                                name="Support"
+                                name="Customize"
                                 focused={focused}
                             />
                         ),

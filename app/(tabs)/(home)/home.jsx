@@ -2,7 +2,7 @@ import { LinearGradient } from "expo-linear-gradient"
 import { StatusBar } from "expo-status-bar"
 import { Image, ImageBackground, ScrollView, Text, TouchableOpacity, View } from "react-native"
 import { SafeAreaView } from "react-native-safe-area-context"
-import userPhoto from "../../../assets/icon/user-pic.png";
+import userPhoto from "../../../assets/icon/users.png";
 import s1 from "../../../assets/home/s1.png";
 import s2 from "../../../assets/home/s2.png";
 import s3 from "../../../assets/home/s3.png";
@@ -42,12 +42,12 @@ const Home = () => {
 
       <LinearGradient
         className="h-full"
-        colors={['#1941B8', '#5D81EE']}
+        colors={['#f65f34', '#5D81EE']}
         start={{ x: 0, y: 0.5 }}
         end={{ x: 1, y: 0.5 }}
       >
         <ScrollView>
-          <View className="w-full h-full min-h-[100vh]">
+          <View className="w-full h-full min-h-[80vh]">
             <View className="px-4 pt-8 pb-10 flex flex-row items-center justify-between">
               <View>
                 <Text className="text-sm text-[#fff]">Wellcome</Text>
@@ -61,7 +61,7 @@ const Home = () => {
 
                 >
                   <Image
-                    source={{ uri: userDetails?.photoURL }}
+                    source={userPhoto}
                     resizeMode="contain"
                     className="w-10 h-10 rounded-full"
                   />
