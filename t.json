@@ -1,0 +1,362 @@
+[
+    {
+        "location": "Hotel Royal Int",
+        "capacity": "100",
+        "price": "200000",
+        "category": "Marriage Anniversary",
+        "duration": "1 day",
+        "cover": "https://i.ibb.co.com/nw23tL5/IMG-20241001-WA0037.jpg",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Officer's club",
+        "capacity": "80",
+        "price": "130000",
+        "category": "Marriage Anniversary",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/25zH2gg",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Khulna convention center",
+        "capacity": "150",
+        "price": "180000",
+        "category": "Marriage Anniversary",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/0cCmPvJ",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "KDA community center",
+        "capacity": "100",
+        "price": "200000",
+        "category": "Marriage Anniversary",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/0cCmPvJ",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "International convention center",
+        "capacity": "150",
+        "price": "300000",
+        "category": "Marriage Anniversary",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/3RbNYzb",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Hotel pushpo bilash",
+        "capacity": "100",
+        "price": "200000",
+        "category": "Marriage Anniversary",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/KXzzMT4",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Appayon community center",
+        "capacity": "100",
+        "price": "200000",
+        "category": "Marriage Anniversary",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/6D2JdR3",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Tiger garden int. Hotel",
+        "capacity": "100",
+        "price": "210000",
+        "category": "Marriage Anniversary",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/g7MnxRB",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Bijoygatha community center",
+        "capacity": "100",
+        "price": "200000",
+        "category": "Marriage Anniversary",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/3fmLsDX",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Castle salam",
+        "capacity": "100",
+        "price": "250000",
+        "category": "Marriage Anniversary",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/nbLWq7M",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Hotel Royal Int",
+        "capacity": "100",
+        "price": "250000",
+        "category": "Marriage ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/b6hHDK8",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Officer's club",
+        "capacity": "80",
+        "price": "130000",
+        "category": "Marriage ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/25zH2gg",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Khulna convention center",
+        "capacity": "150",
+        "price": "280000",
+        "category": "Marriage ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/0cCmPvJ",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "KDA community center",
+        "capacity": "100",
+        "price": "200000",
+        "category": "Marriage ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/0cCmPvJ",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "International convention center",
+        "capacity": "150",
+        "price": "300000",
+        "category": "Marriage ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/3RbNYzb",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Hotel pushpo bilash",
+        "capacity": "200",
+        "price": "450000",
+        "category": "Marriage ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/KXzzMT4",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Appayon community center",
+        "capacity": "100",
+        "price": "250000",
+        "category": "Marriage ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/6D2JdR3",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Tiger garden int. Hotel",
+        "capacity": "100",
+        "price": "310000",
+        "category": "Marriage ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/g7MnxRB",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Bijoygatha community center",
+        "capacity": "120",
+        "price": "250000",
+        "category": "Marriage ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/3fmLsDX",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Castle salam",
+        "capacity": "100",
+        "price": "250000",
+        "category": "Marriage ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/nbLWq7M",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Hotel Royal Int",
+        "capacity": "200",
+        "price": "450000",
+        "category": "Reception",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/b6hHDK8",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Officer's club",
+        "capacity": "80",
+        "price": "130000",
+        "category": "Reception",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/25zH2gg",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Khulna convention center",
+        "capacity": "150",
+        "price": "280000",
+        "category": "Reception",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/0cCmPvJ",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "KDA community center",
+        "capacity": "120",
+        "price": "300000",
+        "category": "Reception",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/0cCmPvJ",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "International convention center",
+        "capacity": "180",
+        "price": "400000",
+        "category": "Reception",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/3RbNYzb",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Hotel pushpo bilash",
+        "capacity": "100",
+        "price": "280000",
+        "category": "Reception",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/KXzzMT4",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Appayon community center",
+        "capacity": "150",
+        "price": "320000",
+        "category": "Reception",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/6D2JdR3",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Tiger garden int. Hotel",
+        "capacity": "120",
+        "price": "250000",
+        "category": "Reception",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/g7MnxRB",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Bijoygatha community center",
+        "capacity": "100",
+        "price": "260000",
+        "category": "Reception",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/3fmLsDX",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Castle salam",
+        "capacity": "100",
+        "price": "350000",
+        "category": "Reception",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/nbLWq7M",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Hotel Royal Int",
+        "capacity": "200",
+        "price": "200000",
+        "category": "Holud ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/v4348Hk",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Officer's club",
+        "capacity": "80",
+        "price": "90000",
+        "category": "Holud ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/JdSH3SN",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Khulna convention center",
+        "capacity": "150",
+        "price": "180000",
+        "category": "Holud ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/N2KXsmw",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "KDA community center",
+        "capacity": "120",
+        "price": "150000",
+        "category": "Holud ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/bLfjM6W",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "International convention center",
+        "capacity": "180",
+        "price": "200000",
+        "category": "Holud ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/rZyLYCr",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Hotel pushpo bilash",
+        "capacity": "100",
+        "price": "180000",
+        "category": "Holud ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/Q6kdTsW",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Appayon community center",
+        "capacity": "150",
+        "price": "120000",
+        "category": "Holud ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/nz3bmts",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Tiger garden int. Hotel",
+        "capacity": "120",
+        "price": "150000",
+        "category": "Holud ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/nDCy24Q",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Bijoygatha community center",
+        "capacity": "100",
+        "price": "80000",
+        "category": "Holud ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/4ZX8Bhy",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    },
+    {
+        "location": "Castle salam",
+        "capacity": "100",
+        "price": "150000",
+        "category": "Holud ceremony",
+        "duration": "1 day",
+        "cover": "https://ibb.co.com/LNczLWh",
+        "description": "Set against a backdrop of timeless elegance and natural beauty, this is the ideal venue to celebrate your dream wedding, anniversary, holud,birthday etc. From intimate gatherings to grand celebrations, our venue offers a stunning setting for every love story, making your special day truly unforgettable.."
+    }
+]

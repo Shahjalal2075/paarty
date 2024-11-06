@@ -74,7 +74,79 @@ const Home = () => {
                 <Text className="text-lg font-bold text-[#1A003C]">Chooses Your Program</Text>
                 <View className=" flex flex-row gap-3 pt-4">
                   <TouchableOpacity
-                    onPress={() => { router.push({ pathname: 'product', params: { plan: 'women' } }) }}
+                    onPress={() => { router.push({ pathname: 'product', params: { plan: 'Marriage ceremony' } }) }}
+                    activeOpacity={0.7}
+                    className={`flex-1 h-[136px]`}
+
+                  >
+                    <ImageBackground
+                      source={s3}
+                      resizeMode="cover"
+                      className="flex-1 justify-end items-center rounded-2xl pb-2"
+                      imageStyle={{ borderRadius: 20 }}
+                    >
+                      <Text className="text-sm font-bold font-hregular px-8 rounded-full text-center bg-[#11111160] text-[#fff] pt-1">
+                        Marriage ceremony
+                      </Text>
+                    </ImageBackground>
+                  </TouchableOpacity>
+                  <TouchableOpacity
+                    onPress={() => { router.push({ pathname: 'product', params: { plan: 'Marriage Anniversary' } }) }}
+                    activeOpacity={0.7}
+                    className={`flex-1 h-[136px]`}
+
+                  >
+                    <ImageBackground
+                      source={s4}
+                      resizeMode="cover"
+                      className="flex-1 justify-end items-center rounded-2xl pb-2"
+                      imageStyle={{ borderRadius: 20 }}
+                    >
+                      <Text className="text-sm font-bold font-hregular px-8 rounded-full text-center bg-[#11111160] text-[#fff] pt-1">
+                        Marriage Anniversary
+                      </Text>
+                    </ImageBackground>
+                  </TouchableOpacity>
+                </View>
+                <View className=" flex flex-row gap-3 pt-4">
+                  <TouchableOpacity
+                    onPress={() => { router.push({ pathname: 'product', params: { plan: 'Reception' } }) }}
+                    activeOpacity={0.7}
+                    className={`flex-1 h-[136px]`}
+
+                  >
+                    <ImageBackground
+                      source={s5}
+                      resizeMode="cover"
+                      className="flex-1 justify-end items-center rounded-2xl pb-2"
+                      imageStyle={{ borderRadius: 20 }}
+                    >
+                      <Text className="text-sm font-bold font-hregular px-8 rounded-full text-center bg-[#11111160] text-[#fff] pt-1">
+                        Reception
+                      </Text>
+                    </ImageBackground>
+                  </TouchableOpacity>
+                  <TouchableOpacity
+                    onPress={() => { router.push({ pathname: 'product', params: { plan: 'Holud ceremony' } }) }}
+                    activeOpacity={0.7}
+                    className={`flex-1 h-[136px]`}
+
+                  >
+                    <ImageBackground
+                      source={s6}
+                      resizeMode="cover"
+                      className="flex-1 justify-end items-center rounded-2xl pb-2"
+                      imageStyle={{ borderRadius: 20 }}
+                    >
+                      <Text className="text-sm font-bold font-hregular px-8 rounded-full text-center bg-[#11111160] text-[#fff] pt-1">
+                        Holud ceremony
+                      </Text>
+                    </ImageBackground>
+                  </TouchableOpacity>
+                </View>
+                <View className=" flex flex-row gap-3 pt-4">
+                  <TouchableOpacity
+                    onPress={() => { router.push({ pathname: 'product', params: { plan: 'Beauty Salon' } }) }}
                     activeOpacity={0.7}
                     className={`flex-1 h-[136px]`}
 
@@ -91,7 +163,7 @@ const Home = () => {
                     </ImageBackground>
                   </TouchableOpacity>
                   <TouchableOpacity
-                    onPress={() => { router.push({ pathname: 'product', params: { plan: 'women' } }) }}
+                    onPress={() => { router.push({ pathname: 'product', params: { plan: 'Bridal Salon' } }) }}
                     activeOpacity={0.7}
                     className={`flex-1 h-[136px]`}
 
@@ -103,79 +175,7 @@ const Home = () => {
                       imageStyle={{ borderRadius: 20 }}
                     >
                       <Text className="text-sm font-bold font-hregular px-8 rounded-full text-center bg-[#11111160] text-[#fff] pt-1">
-                      Bridal Salons
-                      </Text>
-                    </ImageBackground>
-                  </TouchableOpacity>
-                </View>
-                <View className=" flex flex-row gap-3 pt-4">
-                  <TouchableOpacity
-                    onPress={() => { router.push({ pathname: 'product', params: { plan: 'women' } }) }}
-                    activeOpacity={0.7}
-                    className={`flex-1 h-[136px]`}
-
-                  >
-                    <ImageBackground
-                      source={s3}
-                      resizeMode="cover"
-                      className="flex-1 justify-end items-center rounded-2xl pb-2"
-                      imageStyle={{ borderRadius: 20 }}
-                    >
-                      <Text className="text-sm font-bold font-hregular px-8 rounded-full text-center bg-[#11111160] text-[#fff] pt-1">
-                      Caterers
-                      </Text>
-                    </ImageBackground>
-                  </TouchableOpacity>
-                  <TouchableOpacity
-                    onPress={() => { router.push({ pathname: 'product', params: { plan: 'women' } }) }}
-                    activeOpacity={0.7}
-                    className={`flex-1 h-[136px]`}
-
-                  >
-                    <ImageBackground
-                      source={s4}
-                      resizeMode="cover"
-                      className="flex-1 justify-end items-center rounded-2xl pb-2"
-                      imageStyle={{ borderRadius: 20 }}
-                    >
-                      <Text className="text-sm font-bold font-hregular px-8 rounded-full text-center bg-[#11111160] text-[#fff] pt-1">
-                      Florists
-                      </Text>
-                    </ImageBackground>
-                  </TouchableOpacity>
-                </View>
-                <View className=" flex flex-row gap-3 pt-4">
-                  <TouchableOpacity
-                    onPress={() => { router.push({ pathname: 'product', params: { plan: 'women' } }) }}
-                    activeOpacity={0.7}
-                    className={`flex-1 h-[136px]`}
-
-                  >
-                    <ImageBackground
-                      source={s5}
-                      resizeMode="cover"
-                      className="flex-1 justify-end items-center rounded-2xl pb-2"
-                      imageStyle={{ borderRadius: 20 }}
-                    >
-                      <Text className="text-sm font-bold font-hregular px-8 rounded-full text-center bg-[#11111160] text-[#fff] pt-1">
-                      Videographers
-                      </Text>
-                    </ImageBackground>
-                  </TouchableOpacity>
-                  <TouchableOpacity
-                    onPress={() => { router.push({ pathname: 'product', params: { plan: 'women' } }) }}
-                    activeOpacity={0.7}
-                    className={`flex-1 h-[136px]`}
-
-                  >
-                    <ImageBackground
-                      source={s6}
-                      resizeMode="cover"
-                      className="flex-1 justify-end items-center rounded-2xl pb-2"
-                      imageStyle={{ borderRadius: 20 }}
-                    >
-                      <Text className="text-sm font-bold font-hregular px-8 rounded-full text-center bg-[#11111160] text-[#fff] pt-1">
-                      Rental
+                        Bridal Salons
                       </Text>
                     </ImageBackground>
                   </TouchableOpacity>
