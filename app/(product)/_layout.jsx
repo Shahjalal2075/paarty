@@ -9,6 +9,10 @@ const ProductLayout = () => {
                     name="product"
                     options={{ headerShown: false }}
                 />
+                <Stack.Screen
+                    name="details"
+                    options={{ headerShown: false }}
+                />
             </Stack>
         </>
     )

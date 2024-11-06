@@ -77,7 +77,7 @@ const Message = () => {
     };
 
     const openGoogleSearch = () => {
-        const query = `party package ${location || ""}`;
+        const query = `Program management package ${location || ""}`;
         const url = `https://www.google.com/search?q=${encodeURIComponent(query)}`;
         Linking.openURL(url);
     };
