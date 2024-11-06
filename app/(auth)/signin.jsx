@@ -45,8 +45,16 @@ const Signin = () => {
             ToastAndroid.show(`Enter Six Digit Password`, ToastAndroid.SHORT);
             return;
         } */
-        console.log(form);
-        router.push('home');
+
+        if (form.email == 'shah@mail.com' && form.password === "123456") {
+            console.log(form);
+            router.push('home');
+        }
+        else{
+            ToastAndroid.show(`Enter Correct Details`, ToastAndroid.SHORT);
+            return;
+        }
+
     }
 
     return (
@@ -72,10 +80,10 @@ const Signin = () => {
                                     />
                                     <TextInput
                                         className="flex-1 text-[#797DA2] font-hregular text-lg ml-2"
-                                        value={form.name}
+                                        value={form.email}
                                         placeholder="Phone number or email address"
                                         placeholderTextColor="#797DA2"
-                                        onChangeText={(e) => setForm({ ...form, name: e })}
+                                        onChangeText={(e) => setForm({ ...form, email: e })}
                                     />
                                 </View>
                             </View>

@@ -5,9 +5,9 @@ import { SafeAreaView } from "react-native-safe-area-context"
 import userPhoto from "../../../assets/icon/users.png";
 import s1 from "../../../assets/home/s1.png";
 import s2 from "../../../assets/home/s2.png";
-import s3 from "../../../assets/home/s3.png";
-import s4 from "../../../assets/home/s4.png";
-import s5 from "../../../assets/home/s5.png";
+import s3 from "../../../assets/home/s3.jpg";
+import s4 from "../../../assets/home/s4.jpg";
+import s5 from "../../../assets/home/s5.jpg";
 import s6 from "../../../assets/home/s6.png";
 import s7 from "../../../assets/home/s7.png";
 import { router, useFocusEffect } from "expo-router";
@@ -51,7 +51,7 @@ const Home = () => {
             <View className="px-4 pt-8 pb-10 flex flex-row items-center justify-between">
               <View>
                 <Text className="text-sm text-[#fff]">Wellcome</Text>
-                <Text className="text-xl font-bold tracking-[0.3px] mt-1 text-[#fff]">{user.email}</Text>
+                <Text className="text-xl font-bold tracking-[0.3px] mt-1 text-[#fff]">Shahjalal</Text>
               </View>
               <View className="">
                 <TouchableOpacity

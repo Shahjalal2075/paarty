@@ -1,5 +1,5 @@
 import { StatusBar } from "expo-status-bar";
-import { ActivityIndicator, Image, ScrollView, Text, TouchableOpacity, View } from "react-native";
+import { ActivityIndicator, Image, ScrollView, Text, ToastAndroid, TouchableOpacity, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { router, useFocusEffect, useLocalSearchParams } from "expo-router";
 import { useCallback, useState } from "react";
@@ -29,6 +29,12 @@ const Details = () => {
             fetchUserDetails();
         }, [])
     );
+
+    // Function to handle booking
+    const handleBooking = () => {
+        ToastAndroid.show('Booking Success', ToastAndroid.SHORT);
+        router.push("home");
+    };
 
     return (
         <SafeAreaView className="bg-[#fff] h-full">
@@ -76,28 +82,39 @@ const Details = () => {
                         )}
 
                         {program?.location && (
-                            <Text className="text-base text-gray-700 mb-2">
+                            <Text className="text-base font-bold text-gray-700 mb-2">
                                 Location: {program.location}
                             </Text>
                         )}
 
                         {program?.price && (
-                            <Text className="text-base text-gray-700 mb-2">
+                            <Text className="text-base font-bold text-gray-700 mb-2">
                                 Price: ${program.price}
                             </Text>
                         )}
 
                         {program?.capacity && (
-                            <Text className="text-base text-gray-700 mb-2">
+                            <Text className="text-base font-bold text-gray-700 mb-2">
                                 Capacity: {program.capacity} people
                             </Text>
                         )}
 
                         {program?.duration && (
-                            <Text className="text-base text-gray-700 mb-2">
+                            <Text className="text-base font-bold text-gray-700 mb-2">
                                 Duration: {program.duration} hours
                             </Text>
                         )}
+
+                        {/* Book Now Button */}
+                        <TouchableOpacity
+                            onPress={handleBooking}
+                            activeOpacity={0.7}
+                            className="bg-[#007AFF] py-3 mt-6 rounded-lg"
+                        >
+                            <Text className="text-center text-white font-semibold text-lg">
+                                Book Now
+                            </Text>
+                        </TouchableOpacity>
                     </View>
                 </ScrollView>
             )}
